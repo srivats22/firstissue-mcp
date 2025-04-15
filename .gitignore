@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Lock files (optional if you don't want to commit them)
+uv.lock
+
+# OS-specific files
+.DS_Store
