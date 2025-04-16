@@ -8,13 +8,15 @@ Checkout The Video about it here: [Youtube](https://youtu.be/C5M5xq9S8Tw)
 # Features
 1. summarize_issues:
 Finds n number of issues from a given repository and summarizes it. "N" is defaulted to 5 if nothing is provided
-Example: 
-[get_issues](./assets/get_issues.png)
+Example:
+
+![get_issues](./assets/get_issues.png)
 
 2. get_single_issue
 Summarizes a single issue from a github repository
 Example:
-[single_issue](./assets/single_issue.png)
+
+![single_issue](./assets/single_issue.png)
 
 # Pre-Requisite
 1. Claude Desktop
